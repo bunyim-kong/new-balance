@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+  <rect width="900" height="650" fill="#f2f2f2"/>
+  <path d="M158 383c72-4 129-24 179-73 42-41 64-89 94-140l100 34c21 7 42 11 63 15l85 18c21 5 36 24 36 46v57c0 29-23 52-52 52H192c-35 0-63-28-63-63 0-24 11-44 29-56z" fill="#fff" stroke="#c9c9c9" stroke-width="7"/>
+  <path d="M212 346h423M365 288l91 42m-57-82 92 43" fill="none" stroke="#d71920" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#777">NEW BALANCE</text>
+</svg>

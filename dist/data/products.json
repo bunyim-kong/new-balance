@@ -1,0 +1,605 @@
+{
+  "products": [
+    {
+      "id": "9060-black",
+      "style": "U9060JBB",
+      "name": "9060",
+      "subtitle": "Unisex Lifestyle",
+      "price": 159.99,
+      "category": "lifestyle",
+      "audience": ["men", "women"],
+      "color": "Black with Reflection",
+      "badge": "Best seller",
+      "new": true,
+      "rating": 4.8,
+      "reviewCount": 214,
+      "description": "A future-facing expression of the classic 99X series, the 9060 exaggerates familiar elements with sculpted cushioning and a boldly warped Y2K-inspired silhouette.",
+      "story": "Expanded sway bars create a sense of visible motion across the upper, while wavy lines and scaled-up proportions place an exaggerated emphasis on the familiar ABZORB and SBS cushioning platforms.",
+      "features": [
+        "Dual-density ABZORB and SBS cushioned midsole",
+        "Mesh upper with premium suede overlays",
+        "Translucent CR device at the heel",
+        "Diamond outsole pattern inspired by the classic 860"
+      ],
+      "sizes": ["M4 / W5.5", "M5 / W6.5", "M6 / W7.5", "M7 / W8.5", "M8 / W9.5", "M9 / W10.5", "M10 / W11.5", "M11 / W12.5", "M12 / W13.5"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/u9060jbb_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/u9060jbb_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/u9060jbb_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/u9060jbb_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "530-white-indigo",
+      "style": "MR530SG",
+      "name": "530",
+      "subtitle": "Unisex Lifestyle",
+      "price": 109.99,
+      "category": "lifestyle",
+      "audience": ["men", "women"],
+      "color": "White with Natural Indigo",
+      "badge": "Back in stock",
+      "new": false,
+      "rating": 4.7,
+      "reviewCount": 491,
+      "description": "A turn-of-the-millennium running design reintroduced for today, the 530 blends sweeping technical lines with easy everyday comfort.",
+      "story": "The original 530 paired high-mileage reliability with a distinctive technical look. Its contemporary return preserves the airy mesh, synthetic overlays, and segmented cushioning that made it an enduring favorite.",
+      "features": [
+        "ABZORB midsole absorbs impact through cushioning and compression resistance",
+        "Breathable mesh upper with synthetic overlays",
+        "Rubber outsole for everyday durability",
+        "Traditional lace closure for an adjustable fit"
+      ],
+      "sizes": ["M4 / W5.5", "M5 / W6.5", "M6 / W7.5", "M7 / W8.5", "M8 / W9.5", "M9 / W10.5", "M10 / W11.5", "M11 / W12.5", "M12 / W13.5"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/mr530sg_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mr530sg_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mr530sg_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mr530sg_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "574-nimbus",
+      "style": "WL574EVW",
+      "name": "574 Core",
+      "subtitle": "Women's Lifestyle",
+      "price": 99.99,
+      "category": "lifestyle",
+      "audience": ["women"],
+      "color": "Nimbus Cloud with White",
+      "badge": "Icon",
+      "new": false,
+      "rating": 4.6,
+      "reviewCount": 863,
+      "description": "The most New Balance shoe ever: uncomplicated, rugged, durable, and comfortable enough to become a global closet staple.",
+      "story": "Designed as a versatile road-to-trail hybrid on a wider last, the 574 became an icon through utility rather than hype. Its balanced proportions and dependable construction still feel effortless today.",
+      "features": [
+        "Suede and mesh upper",
+        "ENCAP cushioning combines soft foam with a durable rim",
+        "Rubber outsole includes recycled rubber content",
+        "Available in extended width sizes"
+      ],
+      "sizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "11", "12"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/wl574evw_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wl574evw_nb_15_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wl574evw_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wl574evw_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "2002r-rain-cloud",
+      "style": "M2002RST",
+      "name": "2002R",
+      "subtitle": "Unisex Lifestyle",
+      "price": 144.99,
+      "category": "lifestyle",
+      "audience": ["men", "women"],
+      "color": "Rain Cloud with Magnet",
+      "badge": "Best seller",
+      "new": false,
+      "rating": 4.8,
+      "reviewCount": 337,
+      "description": "A refined everyday sneaker that updates a technical 2000s running favorite with a rich mix of suede, mesh, and responsive cushioning.",
+      "story": "The 2002R makes performance heritage feel current. A layered upper creates depth and texture, while the supportive sole unit keeps long days comfortable without sacrificing its streamlined shape.",
+      "features": [
+        "Premium suede and mesh upper",
+        "ABZORB midsole absorbs impact",
+        "N-ergy outsole provides superior shock absorption",
+        "Stability Web arch support technology"
+      ],
+      "sizes": ["M4 / W5.5", "M5 / W6.5", "M6 / W7.5", "M7 / W8.5", "M8 / W9.5", "M9 / W10.5", "M10 / W11.5", "M11 / W12.5", "M12 / W13.5"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/m2002rst_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m2002rst_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m2002rst_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m2002rst_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "550-white-green",
+      "style": "BB550WT1",
+      "name": "550",
+      "subtitle": "Unisex Lifestyle",
+      "price": 119.99,
+      "category": "lifestyle",
+      "audience": ["men", "women"],
+      "color": "White with Green",
+      "badge": "Court classic",
+      "new": false,
+      "rating": 4.5,
+      "reviewCount": 289,
+      "description": "A streamlined take on the heavy-duty basketball designs of the late '80s, returned with clean lines and timeless court style.",
+      "story": "Originally introduced in 1989, the 550 left its mark on basketball floors nationwide. Its low-profile silhouette and sturdy construction now make an easy off-court essential.",
+      "features": [
+        "Structured leather upper",
+        "Perforated panels for breathability",
+        "Durable rubber cup outsole",
+        "Adjustable lace closure"
+      ],
+      "sizes": ["M4 / W5.5", "M5 / W6.5", "M6 / W7.5", "M7 / W8.5", "M8 / W9.5", "M9 / W10.5", "M10 / W11.5", "M11 / W12.5", "M12 / W13.5"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/bb550wt1_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/bb550wt1_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/bb550wt1_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/bb550wt1_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "327-sea-salt",
+      "style": "MS327FE",
+      "name": "327",
+      "subtitle": "Unisex Lifestyle",
+      "price": 99.99,
+      "category": "lifestyle",
+      "audience": ["men", "women"],
+      "color": "Sea Salt with Black",
+      "badge": "New color",
+      "new": true,
+      "rating": 4.6,
+      "reviewCount": 176,
+      "description": "Seventies running heritage, reshaped with an angular wedge silhouette, oversized N branding, and a trail-inspired wraparound outsole.",
+      "story": "The 327 casts classic design elements in a new light. A clean asymmetric upper meets an exaggerated lugged outsole for a look that feels both archival and strikingly modern.",
+      "features": [
+        "Flared midsole inspired by 1970s runners",
+        "Suede and nylon upper",
+        "Oversized asymmetric N branding",
+        "Trail-inspired lug outsole wraps the heel"
+      ],
+      "sizes": ["M4 / W5.5", "M5 / W6.5", "M6 / W7.5", "M7 / W8.5", "M8 / W9.5", "M9 / W10.5", "M10 / W11.5", "M11 / W12.5"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/ms327fe_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/ms327fe_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/ms327fe_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/ms327fe_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "1080v14-black",
+      "style": "M1080K14",
+      "name": "Fresh Foam X 1080v14",
+      "subtitle": "Men's Running",
+      "price": 164.99,
+      "category": "running",
+      "audience": ["men"],
+      "color": "Black with White",
+      "badge": "Premium comfort",
+      "new": true,
+      "rating": 4.7,
+      "reviewCount": 128,
+      "description": "A premium everyday running shoe with smooth Fresh Foam X cushioning and a breathable, supportive upper for miles of easy comfort.",
+      "story": "Built for everyday running, the 1080 balances plush cushioning with a natural transition. The updated geometry feels stable, smooth, and versatile at any pace.",
+      "features": [
+        "Fresh Foam X midsole cushioning",
+        "Breathable engineered mesh upper",
+        "Durable rubber outsole coverage",
+        "Rocker profile for a smooth forward transition"
+      ],
+      "sizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13", "14"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/m1080k14_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m1080k14_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m1080k14_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m1080k14_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "990v6-grey",
+      "style": "M990GL6",
+      "name": "Made in USA 990v6",
+      "subtitle": "Men's Lifestyle",
+      "price": 199.99,
+      "category": "lifestyle",
+      "audience": ["men"],
+      "color": "Grey with Silver",
+      "badge": "Made in USA",
+      "new": false,
+      "rating": 4.9,
+      "reviewCount": 402,
+      "description": "The 990's most evolved form, pairing flowing suede and mesh lines with FuelCell cushioning for an unmistakable blend of craft and performance.",
+      "story": "The 990v6 removes the standard midfoot saddle and lets pigskin and synthetic overlays flow from heel to toe. Underfoot, FuelCell cushioning brings the icon its most propulsive feel yet.",
+      "features": [
+        "FuelCell foam helps deliver a propulsive feel",
+        "ENCAP midsole cushioning for all-day support",
+        "Premium pigskin and mesh upper",
+        "Made in the USA with a majority of domestic value"
+      ],
+      "sizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13", "14"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/m990gl6_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m990gl6_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m990gl6_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/m990gl6_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-530-pink",
+      "style": "GR530RK",
+      "name": "530 Lace",
+      "subtitle": "Big Kids' Lifestyle",
+      "price": 84.99,
+      "category": "lifestyle",
+      "audience": ["kids"],
+      "color": "White with Pink Sugar",
+      "badge": "Best seller",
+      "new": true,
+      "rating": 4.8,
+      "reviewCount": 96,
+      "description": "A classic 2000s running-inspired design scaled for growing feet and built for comfortable everyday wear.",
+      "story": "The kids' 530 keeps the technical curves and cushioned feel of the original in a lightweight, all-purpose design made for school days, weekends, and everything between.",
+      "features": [
+        "ABZORB midsole cushioning",
+        "Durable synthetic upper",
+        "Traditional adjustable lace closure",
+        "Flexible rubber outsole"
+      ],
+      "sizes": ["3.5", "4", "4.5", "5", "5.5", "6", "6.5", "7"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/gr530rk_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr530rk_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr530rk_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr530rk_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-9060-grey",
+      "style": "GC9060GY",
+      "name": "9060 Lace",
+      "subtitle": "Big Kids' Lifestyle",
+      "price": 114.99,
+      "category": "lifestyle",
+      "audience": ["kids"],
+      "color": "Grey with White",
+      "badge": "Kids' favorite",
+      "new": true,
+      "rating": 4.7,
+      "reviewCount": 74,
+      "description": "The future-facing 9060 reworked for kids with bold Y2K proportions, supportive cushioning, and durable everyday materials.",
+      "story": "Expanded sway bars and a sculpted pod midsole give the kids' 9060 the same visible-motion look as the original, with a fit and construction made for growing feet.",
+      "features": [
+        "Dual-density ABZORB and SBS midsole",
+        "Synthetic suede and mesh upper",
+        "Translucent CR heel device",
+        "Traditional adjustable lace closure"
+      ],
+      "sizes": ["3.5", "4", "4.5", "5", "5.5", "6", "6.5", "7"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/gc9060gy_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc9060gy_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc9060gy_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc9060gy_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-327-silver",
+      "style": "GS327FE",
+      "name": "327 Lace",
+      "subtitle": "Big Kids' Lifestyle",
+      "price": 79.99,
+      "category": "lifestyle",
+      "audience": ["kids"],
+      "color": "Silver Birch with Black",
+      "badge": "Retro icon",
+      "new": false,
+      "rating": 4.6,
+      "reviewCount": 82,
+      "description": "A lightweight kids' sneaker combining sturdy suede and mesh with oversized branding and retro-running attitude.",
+      "story": "The kids' 327 turns New Balance running heritage into an easy all-day shoe, with a lightweight build, bold N logo, and trail-inspired grip.",
+      "features": [
+        "Suede and mesh upper",
+        "Oversized N logo",
+        "Lightweight rubber traction outsole",
+        "Traditional adjustable lace closure"
+      ],
+      "sizes": ["3.5", "4", "4.5", "5", "5.5", "6", "6.5", "7"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/gs327fe_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gs327fe_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gs327fe_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gs327fe_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-574-grey",
+      "style": "GC574EVG",
+      "name": "574 Core Lace",
+      "subtitle": "Big Kids' Lifestyle",
+      "price": 79.99,
+      "category": "lifestyle",
+      "audience": ["kids"],
+      "color": "Grey with White",
+      "badge": "Classic",
+      "new": false,
+      "rating": 4.8,
+      "reviewCount": 119,
+      "description": "The uncomplicated comfort and durability of the 574 icon, pared down for growing feet.",
+      "story": "This kid-sized 574 keeps the familiar road-to-trail shape and reliable construction that made the original a global staple.",
+      "features": [
+        "Lightweight EVA foam cushioning",
+        "Durable leather upper",
+        "Rubber outsole for everyday traction",
+        "Traditional adjustable lace closure"
+      ],
+      "sizes": ["3.5", "4", "4.5", "5", "5.5", "6", "6.5", "7"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/gc574evg_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc574evg_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc574evg_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gc574evg_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-740-white",
+      "style": "GR740WM",
+      "name": "740 Lace",
+      "subtitle": "Big Kids' Lifestyle",
+      "price": 89.99,
+      "category": "lifestyle",
+      "audience": ["kids"],
+      "color": "White with Silver Metallic",
+      "badge": "New",
+      "new": true,
+      "rating": 4.7,
+      "reviewCount": 61,
+      "description": "A timeless 2000s-inspired silhouette with plush cushioning, built for all-day wear on growing feet.",
+      "story": "The kids' 740 brings a streamlined technical look and easy cushioning together in a versatile school-to-weekend sneaker.",
+      "features": [
+        "ABZORB impact-absorbing midsole",
+        "Synthetic and mesh upper with overlays",
+        "2000s-era running design inspiration",
+        "Traditional adjustable lace closure"
+      ],
+      "sizes": ["3.5", "4", "4.5", "5", "5.5", "6", "6.5", "7"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/gr740wm_nb_02_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr740wm_nb_05_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr740wm_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/gr740wm_nb_07_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "trackside-fleece-hoodie-black",
+      "style": "MT62Y14PBK",
+      "name": "Trackside Fleece Hoodie",
+      "subtitle": "Men's Lifestyle Apparel",
+      "price": 79.99,
+      "category": "apparel",
+      "audience": ["men"],
+      "color": "Caviar",
+      "badge": "New",
+      "new": true,
+      "rating": 4.8,
+      "reviewCount": 34,
+      "description": "A super-soft brushed fleece hoodie with an oversized fit and Y2K-inspired Trackside detailing.",
+      "story": "New Balance heritage runs through the Trackside collection, pairing a roomy modern shape with contrast piping and mixed embroidered-and-printed branding.",
+      "features": [
+        "Soft brushed-back fleece",
+        "Hood with drawcord and kangaroo pocket",
+        "Contrast piping along the raglan sleeves",
+        "60% cotton, 40% polyester"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/mt62y14pbk_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mt62y14pbk_nb_50_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mt62y14pbk_nb_73_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "trackside-t-shirt-black",
+      "style": "MT6279IZBK",
+      "name": "Trackside T-Shirt",
+      "subtitle": "Men's Lifestyle Apparel",
+      "price": 34.99,
+      "category": "apparel",
+      "audience": ["men"],
+      "color": "Black",
+      "badge": "Member favorite",
+      "new": true,
+      "rating": 4.7,
+      "reviewCount": 28,
+      "description": "A soft cotton jersey classic with a modern boxy silhouette and raised heritage graphic.",
+      "story": "The Trackside T-Shirt revisits turn-of-the-century sports style with a shorter, oversized cut designed for effortless everyday layering.",
+      "features": [
+        "Soft 100% cotton jersey",
+        "Crew neck with ribbed collar",
+        "Raised center-chest brand graphic",
+        "Oversized fit with a shorter length"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/mt6279izbk_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mt6279izbk_nb_50_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mt6279izbk_nb_73_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "rc-essential-jogger-black",
+      "style": "MB61Q6QOBK",
+      "name": "RC Essential Jogger",
+      "subtitle": "Men's Running Apparel",
+      "price": 89.99,
+      "category": "apparel",
+      "audience": ["men"],
+      "color": "Black with Slate Grey",
+      "badge": "Performance",
+      "new": false,
+      "rating": 4.6,
+      "reviewCount": 41,
+      "description": "Stretch woven running joggers with fast-drying comfort and breathable mesh behind the knees.",
+      "story": "Built to move from warm-up through cool-down, this streamlined jogger balances storage, ventilation, and an easy athletic fit.",
+      "features": [
+        "NB DRY fast-drying technology",
+        "Breathable mesh behind the knees",
+        "Four external drop-in pockets and a rear zip pocket",
+        "86% recycled polyester, 14% elastane"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/mb61q6qobk_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mb61q6qobk_nb_50_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/mb61q6qobk_nb_73_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "define-fitted-t-shirt-black",
+      "style": "WT51126BK",
+      "name": "NB Define Fitted T-Shirt",
+      "subtitle": "Women's Training Apparel",
+      "price": 54.99,
+      "category": "apparel",
+      "audience": ["women"],
+      "color": "Black",
+      "badge": "Performance",
+      "new": true,
+      "rating": 4.8,
+      "reviewCount": 52,
+      "description": "A lightweight fitted performance tee designed to move like a second skin through training and everyday wear.",
+      "story": "Minimal lines and flexible NB Define fabric keep this top focused on freedom of movement, with quick-drying performance built in.",
+      "features": [
+        "NB DRY fast-drying technology",
+        "Second-skin NB Define fabric",
+        "Minimal branding and short sleeves",
+        "75% recycled polyester, 25% Lycra"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/wt51126bk_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wt51126bk_nb_50_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wt51126bk_nb_72_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "athletics-crafted-t-shirt-nordic-green",
+      "style": "WT6244GMNOG",
+      "name": "Athletics Crafted T-Shirt",
+      "subtitle": "Women's Lifestyle Apparel",
+      "price": 49.99,
+      "category": "apparel",
+      "audience": ["women"],
+      "color": "Nordic Green",
+      "badge": "New",
+      "new": true,
+      "rating": 4.7,
+      "reviewCount": 19,
+      "description": "A lightweight slim-fit tee with soft stretch cotton jersey and understated New Balance details.",
+      "story": "The Athletics Crafted collection refines a daily essential with a clean silhouette, a soft hand feel, and minimal Flying NB branding.",
+      "features": [
+        "Soft stretch cotton jersey",
+        "Slim contouring fit",
+        "Woven locker-loop label",
+        "66% cotton, 28% acetate, 6% elastane"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL", "2XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/wt6244gmnog_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wt6244gmnog_nb_73_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/wt6244gmnog_nb_72_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "kids-stacked-logo-hoodie-black",
+      "style": "LAKB0366BK",
+      "name": "Brush Back Stacked Logo Hoodie",
+      "subtitle": "Kids' Lifestyle Apparel",
+      "price": 49.99,
+      "category": "apparel",
+      "audience": ["kids"],
+      "color": "Black",
+      "badge": "Kids' favorite",
+      "new": true,
+      "rating": 4.9,
+      "reviewCount": 23,
+      "description": "A soft everyday kids' hoodie made for comfortable days in and out of the classroom.",
+      "story": "Brushed-back cotton fleece and bold stacked branding turn a familiar hoodie into a dependable school-to-weekend layer.",
+      "features": [
+        "Soft brushed-back cotton fleece",
+        "Attached hood and long sleeves",
+        "Stacked New Balance logo",
+        "80% cotton, 20% polyester"
+      ],
+      "sizes": ["7-8 Y", "9-10 Y", "10-11 Y", "12-13 Y"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/lakb0366bk_nb_70_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/lakb0366bk_nb_50_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/lakb0366bk_nb_73_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "urban-backpack-dark-night",
+      "style": "AC3405TDNT",
+      "name": "Urban Backpack",
+      "subtitle": "Unisex Bags & Backpacks",
+      "price": 79.99,
+      "category": "accessories",
+      "audience": ["men", "women"],
+      "color": "Dark Night",
+      "badge": "Everyday carry",
+      "new": true,
+      "rating": 4.8,
+      "reviewCount": 46,
+      "description": "A sturdy everyday backpack with thoughtful pockets for work, travel, and daily essentials.",
+      "story": "The Urban Backpack keeps a clean exterior while building in fast access, laptop storage, and dual bottle pockets for organized days on the move.",
+      "features": [
+        "U-zip front pocket and quick-access phone pocket",
+        "Dedicated laptop compartment",
+        "Water bottle storage on both sides",
+        "Durable nylon woven construction"
+      ],
+      "sizes": ["One Size"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/ac3405tdnt_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/ac3405tdnt_nb_04_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/ac3405tdnt_nb_05_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    },
+    {
+      "id": "pro-run-tab-socks-smoked-violet",
+      "style": "LAS15107SMV",
+      "name": "Pro Run Tab Socks 1 Pair",
+      "subtitle": "Unisex Running Accessories",
+      "price": 14.99,
+      "category": "accessories",
+      "audience": ["men", "women"],
+      "color": "Smoked Violet",
+      "badge": "Run essential",
+      "new": false,
+      "rating": 4.7,
+      "reviewCount": 67,
+      "description": "Premium lightweight running socks with breathable mesh, quick-drying comfort, and a left/right fit.",
+      "story": "Designed as the performance layer between foot and shoe, the Pro Run Tab Sock balances airflow, low bulk, and anatomical comfort.",
+      "features": [
+        "NB DRY fast-drying technology",
+        "Breathable mesh panels",
+        "Left- and right-specific fit",
+        "Low-cut silhouette with back tab"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "images": [
+        "https://nb.scene7.com/is/image/NB/las15107smv_nb_03_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/las15107smv_nb_04_i?$pdpflexf2$&wid=1000&hei=1000",
+        "https://nb.scene7.com/is/image/NB/las15107smv_nb_05_i?$pdpflexf2$&wid=1000&hei=1000"
+      ]
+    }
+  ]
+}
