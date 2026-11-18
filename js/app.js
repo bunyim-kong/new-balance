@@ -524,7 +524,7 @@ async function initCart() {
       }).filter(Boolean);
 
       if (!rows.length) {
-        layout.innerHTML = `<div class="empty-cart"><span class="empty-icon">○</span><h2>Your cart is ready for something new.</h2><p>Explore footwear, apparel, and everyday accessories.</p><a class="button button-dark" href="shop.html">Shop products</a></div>`;
+        layout.innerHTML = `<div class="empty-cart"><h2>Your cart is ready for something new.</h2><p>Explore footwear, apparel, and everyday accessories.</p><a class="button button-dark" href="shop.html">Shop products</a></div>`;
         return;
       }
 
